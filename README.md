@@ -1,7 +1,7 @@
 # TSP-Former 项目介绍
 
 ## 项目简介
-TSP-Former 是一个用于时序遥感影像分类与预测的深度学习项目，主要应用于烟草等作物的识别。项目集成了多种时序建模方法（如 LSTM、Transformer、STNet、TempCNN、LTAE、TSP_TransNet 等），并支持完整的数据预处理、模型训练与预测流程。
+TSP-Former 是一个用于时序遥感影像分类与预测的深度学习项目，主要应用于烟草等作物的识别。项目集成了多种时序建模方法（如 LSTM、Transformer、STNet、TempCNN、LTAE、TSP-Former 等），并支持完整的数据预处理、模型训练与预测流程。
 
 ## 目录结构
 - `datasets/`：数据集处理与加载相关代码
