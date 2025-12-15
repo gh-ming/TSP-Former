@@ -1,10 +1,16 @@
 # **TSP-Former: A Phenology-Guided Transformer for Tobacco Mapping Using Satellite Image Time Series**
 
-**Official implementation of "TSP-Former: A Phenology-Guided Transformer for Tobacco Mapping Using Satellite Image Time Series"**
+[![JSTARS](https://img.shields.io/badge/Journal-JSTARS-blue.svg)](https://ieeexplore.ieee.org/document/10.1109/JSTARS.2025.3645265)
+[![Framework](https://img.shields.io/badge/PyTorch-1.8%2B-ee4c2c.svg)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**Authors:** Huaming Gao, Yongqing Bai, Qing Sun, Haoran Wang, Xiangyu Tian, Hui Ma, Yixiang Li, Xianghong Che, and Zhengchao Chen.
+> **Official implementation of "TSP-Former: A Phenology-Guided Transformer for Tobacco Mapping Using Satellite Image Time Series"**
+>
+> **Authors:** Huaming Gao, Yongqing Bai, Qing Sun, Haoran Wang, Xiangyu Tian, Hui Ma, Yixiang Li, Xianghong Che, and Zhengchao Chen.
+>
+> Published in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*, 2025.
 
-Published in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*, 2026.
+---
 
 ## **📖 摘要 (Abstract)**
 
@@ -153,7 +159,7 @@ python predict.py \
   title={TSP-Former: A Phenology-Guided Transformer for Tobacco Mapping Using Satellite Image Time Series},
   author={Gao, Huaming and Bai, Yongqing and Sun, Qing and Wang, Haoran and Tian, Xiangyu and Ma, Hui and Li, Yixiang and Che, Xianghong and Chen, Zhengchao},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  year={2026},
+  year={2025},
   publisher={IEEE}
 }
 ```
