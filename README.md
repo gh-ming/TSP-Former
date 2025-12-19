@@ -1,6 +1,6 @@
 # **TSP-Former: A Phenology-Guided Transformer for Tobacco Mapping Using Satellite Image Time Series**
 
-[![JSTARS](https://img.shields.io/badge/Journal-JSTARS-blue.svg)](https://ieeexplore.ieee.org/document/10.1109/JSTARS.2025.3645265)
+[![JSTARS](https://img.shields.io/badge/Journal-JSTARS-blue.svg)](https://ieeexplore.ieee.org/document/11302804)
 [![Framework](https://img.shields.io/badge/PyTorch-1.8%2B-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
