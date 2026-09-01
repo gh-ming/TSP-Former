@@ -62,7 +62,7 @@
 | AlphaEarth (Fine-tuned) | 81.7% | 65.1% | 77.0% | 94.9% |
 | **TSP-Former (Ours)** | **87.2%** | **80.5%** | **79.9%** | **95.8%** |
 
-**Highlight**: 在物候差异显著的 **XC (襄城)** 区域，TSP-Former 的精度比微调后的遥感基础模型 **AlphaEarth** 高出 **15%** 以上。
+**Highlight**: 在物候差异显著的 **XC (襄城)** 区域，TSP-Former 的精度比微调后的遥感基础模型 **AlphaEarth** 高出 **15%** 以上。我们的数据集已经在IEEE DATAPORT上公开，如需要请访问：[https://ieee-dataport.org/documents/tobaccost-5r-multi-regional-sentinel-2-spatiotemporal-point-dataset-flue-cured-tobacco].
 
 ## **🛠️ 使用指南 (Usage Guide)**
 
